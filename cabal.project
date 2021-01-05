@@ -1,0 +1,8 @@
+packages:
+  arrowgant/
+  lef/
+  def/
+  blif/
+  firrtl/
+  verilog/
+  lsc/

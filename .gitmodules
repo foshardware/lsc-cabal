@@ -1,0 +1,21 @@
+[submodule "arrowgant"]
+	path = arrowgant
+	url = https://github.com/foshardware/arrowgant.git
+[submodule "blif"]
+	path = blif
+	url = https://github.com/foshardware/blif.git
+[submodule "def"]
+	path = def
+	url = https://github.com/foshardware/def.git
+[submodule "firrtl"]
+	path = firrtl
+	url = https://github.com/foshardware/firrtl.git
+[submodule "lef"]
+	path = lef
+	url = https://github.com/foshardware/lef.git
+[submodule "lsc"]
+	path = lsc
+	url = https://github.com/foshardware/lsc.git
+[submodule "verilog"]
+	path = verilog
+	url = https://github.com/foshardware/verilog.git
